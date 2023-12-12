@@ -56,7 +56,7 @@ Run the Docker Container: Once the image is built, run the Docker container usin
 
  | Project's Name | Published Article  | Deployed App |Docker Hub Repository|
 |:--------------:|:--------------:|:--------------:|:--------------:|
-| Sepsis Prediction Using Fastapi|[Project Article](https://www.linkedin.com/pulse/classification-machine-learning-fastapi-sepsis-imanirakarama-4ivkf/) |    [Deployed App]()| [Docker Hub](https://hub.docker.com/repository/docker/imalexianne/machine_learning_sepsis_predicion_fastapi/general)
+| ML_Sepsis_API_Project|[Project Article](https://www.linkedin.com/pulse/classification-machine-learning-fastapi-sepsis-imanirakarama-4ivkf/) |    [Deployed App](https://imalexianne-ml-sepsis-fastapi.hf.space)| [Docker Hub](https://hub.docker.com/repository/docker/imalexianne/fastapi_sepsis_prediction/general)
   
 ## Author
 
