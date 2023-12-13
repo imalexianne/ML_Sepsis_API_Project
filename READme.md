@@ -54,13 +54,16 @@ To run this application, follow these steps:
 Run the Docker Container: Once the image is built, run the Docker container using the following command:
 *docker run -p 8000:8000 ml-sepsis-prediction-app*
 
-## Summary
+#### Output example
+
+![API](images/respones.png)
+#### Summary
 
  | Project's Name | Published Article  | Deployed App |Docker Hub Repository|
 |:--------------:|:--------------:|:--------------:|:--------------:|
 | ML_Sepsis_API_Project|[Project Article](https://www.linkedin.com/pulse/classification-machine-learning-fastapi-sepsis-imanirakarama-4ivkf/) |    [Deployed App](https://imalexianne-ml-sepsis-fastapi.hf.space)| [Docker Hub](https://hub.docker.com/repository/docker/imalexianne/fastapi_sepsis_prediction/general)
   
-## Author
+#### Author
 
 Alexianne Imanirakarama
 
