@@ -11,7 +11,7 @@ This application allows you to predict sepsis in patients using a machine-learni
 ## Introduction
 
  In this project, we'll develop a FastAPI web application that predicts whether a patient has sepsis based on various medical attributes.
- 
+
 ## Used Data
 ![API](images/data.png)
 
@@ -66,7 +66,7 @@ Run the Docker Container: Once the image is built, run the Docker container usin
 
  | Project's Name | Published Article  | Deployed App |Docker Hub Repository|
 |:--------------:|:--------------:|:--------------:|:--------------:|
-| ML_Sepsis_API_Project|[Project Article](https://www.linkedin.com/pulse/classification-machine-learning-fastapi-sepsis-imanirakarama-4ivkf/) |    [Deployed App](https://imalexianne-ml-sepsis-fastapi.hf.space)| [Docker Hub](https://hub.docker.com/repository/docker/imalexianne/fastapi_sepsis_prediction/general)
+| ML_Sepsis_API_Project|[Project Article](https://www.linkedin.com/pulse/classification-machine-learning-fastapi-sepsis-imanirakarama-4ivkf/) |    [Deployed App](https://imalexianne-ml-sepsis-fastapi.hf.space/docs)| [Docker Hub](https://hub.docker.com/repository/docker/imalexianne/fastapi_sepsis_prediction/general)
   
 #### Author
 
