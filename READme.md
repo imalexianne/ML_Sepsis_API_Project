@@ -8,11 +8,12 @@ Welcome to the Sepsis Prediction FastAPI application!
 
 This application allows you to predict sepsis in patients using a machine-learning model.
 
-
-
 ## Introduction
 
  In this project, we'll develop a FastAPI web application that predicts whether a patient has sepsis based on various medical attributes.
+ 
+## Used Data
+![API](images/data.png)
 
 ## Setup
 Install the required packages to be able to run the evaluation locally.
