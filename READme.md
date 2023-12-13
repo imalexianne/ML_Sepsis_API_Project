@@ -1,5 +1,7 @@
 #  Machine-learning model Dockerized FastAPI Sepsis Prediction
 
+![API](images/execution.png)
+
 ## Description 
 
 Welcome to the Sepsis Prediction FastAPI application!
