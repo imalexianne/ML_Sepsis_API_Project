@@ -1,6 +1,6 @@
 #  Machine-learning model Dockerized FastAPI Sepsis Prediction
 
-![API](images/execution.png)
+![API](images/api2.png)
 
 ## Description 
 
@@ -53,6 +53,10 @@ To run this application, follow these steps:
 
 Run the Docker Container: Once the image is built, run the Docker container using the following command:
 *docker run -p 8000:8000 ml-sepsis-prediction-app*
+
+#### Input example
+
+![API](images/execution.png)
 
 #### Output example
 
